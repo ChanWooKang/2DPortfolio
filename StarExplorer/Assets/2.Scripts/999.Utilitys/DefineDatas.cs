@@ -12,5 +12,13 @@ namespace DefineDatas
         Press,
         PointerUP
     }
+
+    public enum eObjectDirecetion
+    {
+        Down = 0,
+        Up,
+        Right,
+        Left
+    }
     #endregion [ Enum ] 
 }
